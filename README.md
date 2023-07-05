@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deep1435
 - 👀 I’m interested in developing.
 - 🌱 I’m currently learning new skill.
-- 💞️ I’m looking to collaborate on murtuza motagam
+- 💞️ I’m looking to collaborate on Murtuza Motagam
 - 📫 How to reach me look my github.
 
 <!---
